@@ -13,7 +13,7 @@ Atualmente estou me desenvolvendo como programador Full-Stack, com foco em back-
 
 🎓 Engenharia da Computação (em andamento)  
 🏫 UNASP – Centro Universitário Adventista de São Paulo  
-📅 Previsão de conclusão: 202X  
+📅 Previsão de conclusão: 2029  
 
 ---
 
