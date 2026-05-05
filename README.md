@@ -67,19 +67,6 @@ Atualmente estou me desenvolvendo como programador Full-Stack, com foco em back-
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TalesGab&show_icons=true&theme=tokyonight"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TalesGab&layout=compact&theme=tokyonight"
-  />
-</p>
----
 
 ### 📌 Projetos em destaque
 
