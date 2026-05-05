@@ -69,17 +69,14 @@ Atualmente estou me desenvolvendo como programador Full-Stack, com foco em back-
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=TalesGab&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=TalesGab&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
   />
-</p>
-
-<p>
   <img 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesGab&theme=tokyonight&layout=compact" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalesGab&layout=compact&theme=tokyonight"
   />
 </p>
 
@@ -110,4 +107,4 @@ Me tornar um desenvolvedor Full-Stack e conquistar minha primeira oportunidade n
 
 ### 📫 Contato
 
-📧 Email: Tales.gabriel.filho@gmail.com
+📧 Email: Tales.gabriel.filho@gmail.com  
